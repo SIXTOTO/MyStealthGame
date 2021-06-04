@@ -58,3 +58,5 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+# remote: error: File Assets/The Great Fleece/Game/_Scenes/Learning/Environment_Finished/LightingData.asset is 158.26 MB; this exceeds GitHub's file size limit of 100.00 MB
+/[Aa]ssets/The Great Fleece/Game/_Scenes/Learning/Environment_Finished/LightingData.asset
